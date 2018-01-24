@@ -1,0 +1,9 @@
+site_name: Interfaces - Documentação
+pages:
+    - Home: index.md
+    - GH: gh.md
+    - BST - Bedside Tracker: bst.md
+    - BPOC: bpoc.md
+    - Especificação HL7: hl7.md
+    - About: about.md
+theme: readthedocs
