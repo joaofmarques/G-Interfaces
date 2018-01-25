@@ -1,8 +1,6 @@
 # Introdução
 
-O presente documento tem como objetivo detalhar os interfaces necessários para a implementação do workflow de integração com o produto Bedside Tracker (BST).
-
-O interface será implementado com recurso ao standard HL7, na sua versão 2.4. 
+O presente documento tem como objetivo detalhar os interfaces necessários para a implementação do workflow de integração com o produto Bedside Tracker (BST). 
 
 # Especificação funcional
 
@@ -48,6 +46,10 @@ Apesar do diagrama abaixo fazer referência a produtos Globalcare, pretende-se q
 ***
 
 # Especificação técnica
+
+O interface será implementado com recurso ao standard HL7, na sua versão 2.4.
+
+No capítulo abaixo, encontram-se detalhados todos os conectores de interfaces que são necessários instalar neste âmbito.
 
 ##Conectores
 
