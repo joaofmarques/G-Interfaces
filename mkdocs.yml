@@ -2,6 +2,7 @@ site_name: Interfaces - Documentação
 pages:
     - Interoperabilidade: index.md
     - Catálogo de serviços: services.md
+    - Pré-requisitos: requirements.md
     - GH: gh.md
     - BST - Bedside Tracker: bst.md
     - BPOC: bpoc.md
